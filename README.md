@@ -1,1 +1,1 @@
-# debts-manager
+# Debts Manager
