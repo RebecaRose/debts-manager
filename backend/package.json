@@ -2,7 +2,7 @@
   "name": "backend",
   "version": "1.0.0",
   "main": "dist/index.ts",
-  "repository": "https://github.com/RebecaRose/positions-manager.git",
+  "repository": "https://github.com/RebecaRose/debts-manager.git",
   "author": "rebecarose",
   "license": "MIT",
   "scripts": {
